@@ -1,0 +1,4 @@
+= filelist.kak
+Parasrah <git@parasrah.com>
+
+This plugin aims to provide a similar behavior to `argdo` from `vim`, allowing you to play macros across a set of files (in series or in parallel).
